@@ -57,6 +57,7 @@
     "nodemailer-stub-transport": "^1.1.0",
     "request": "git+https://github.com/im960908/request.git",
     "serve-favicon": "^2.2.0",
+    "smtp-connection": "git+https://github.com/im960908/smtp-connection.git#v2.12.0_fix",
     "stable": "^0.1.5",
     "strong-globalize": "^4.1.1",
     "strong-remoting": "^3.11.0",
